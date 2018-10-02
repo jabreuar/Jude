@@ -1,0 +1,24 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "Hello. Welcome to Dell!!",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "isSubtle": "yes",
+      "text": "My name is Jude and I am here to help you.",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ]
+}
